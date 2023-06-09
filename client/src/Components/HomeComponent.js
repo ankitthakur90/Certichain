@@ -10,7 +10,7 @@ function Home() {
                 <Container>
                     <h1>Welcome to Certichain</h1>
                     <div>
-                        <img src="https://www.eastbaytimes.com/wp-content/uploads/2019/06/SCHWARZENEGGER_DIPLOMAS_2_-1.jpg?w=980"/>
+                        <img src="https://www.researchgate.net/publication/351356935/figure/fig4/AS:1020456937197574@1620307301792/Digital-Certificate-verification-process-using-Blockchain.png"/>
                     </div>
                 </Container>
             </div>
